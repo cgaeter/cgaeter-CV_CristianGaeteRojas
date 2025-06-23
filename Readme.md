@@ -19,7 +19,7 @@ Soy **Analista de Datos** con más de 10 años de experiencia en logística, sop
 
 ## 🌐 Sitio Web
 
-🔗 [https://cgaeter.github.io/cv-cristian-gaete](https://cgaeter.github.io/cv-cristian-gaete)
+🔗 [https://cgaeter.github.io/CV_CristianGaeteRojas](https://cgaeter.github.io/cgaeter-CV_CristianGaeteRojas)
 
 ## 📊 Proyectos Destacados
 
