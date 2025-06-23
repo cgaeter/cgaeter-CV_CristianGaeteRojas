@@ -1,10 +1,10 @@
 # 📄 Cristian Gaete Rojas – CV y Portafolio Profesional
 
-Bienvenido a mi repositorio profesional. Aquí encontrarás mi Currículum Vitae actualizado y acceso a mis principales proyectos en análisis de datos, soporte técnico y visualización de información.
+Bienvenido a mi repositorio profesional. Aquí encontrarás mi Currículum Vitae actualizado y acceso a mis principales proyectos en análisis de datos y visualización de información.
 
 ## 👨‍💻 Sobre mí
 
-Soy **Cristian Gaete Rojas**, Data Analyst en formación, con más de 10 años de experiencia en soporte técnico, operaciones logísticas y gestión de procesos. Estoy enfocado en transformar datos en información accionable para mejorar la toma de decisiones.
+Soy **Cristian Gaete Rojas** Data Analyst en formación. Con más de 10 años de experiencia en soporte, operaciones logísticas y gestión de procesos, transformo datos en decisiones estratégicas.
 
 Actualmente desarrollo proyectos de visualización y análisis utilizando:
 
