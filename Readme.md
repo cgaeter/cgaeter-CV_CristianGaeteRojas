@@ -4,7 +4,7 @@ Bienvenido a mi repositorio profesional. Aquí encontrarás mi Currículum Vitae
 
 ## 👨‍💻 Sobre mí
 
-Soy **Cristian Gaete Rojas** Data Analyst en formación. Con más de 10 años de experiencia en soporte, operaciones logísticas y gestión de procesos, transformo datos en decisiones estratégicas.
+Soy **Cristian Gaete Rojas** Data Analyst en formación. Con más de 10 años de experiencia en soporte, operaciones logísticas y gestión de procesos, *transformo datos en decisiones estratégicas.*
 
 Actualmente desarrollo proyectos de visualización y análisis utilizando:
 
