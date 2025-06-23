@@ -21,7 +21,7 @@ Actualmente desarrollo proyectos de visualización y análisis utilizando:
 
 Accede a mi CV online y enlaces directos a mis proyectos:
 
-🔗 [https://cgaeter.github.io/cv-cristian-gaete](https://cgaeter.github.io/CV_CristianGaeteRojas)
+🔗 [https://cgaeter.github.io/CV_CristianGaeteRojas.pdf](https://cgaeter.github.io/CV_CristianGaeteRojas)
 
 ## 🧩 Proyectos Destacados
 
