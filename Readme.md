@@ -1,34 +1,34 @@
-# ?? Cristian Gaete Rojas ¨C CV y Portafolio Profesional
+# ğŸ“„ Cristian Gaete Rojas â€“ CV y Portafolio Profesional
 
-Bienvenido a mi repositorio profesional. Aqu¨ª encontrar¨¢s mi Curr¨ªculum Vitae actualizado y acceso a mis principales proyectos en an¨¢lisis de datos, soporte t¨¦cnico y visualizaci¨®n.
+Bienvenido a mi repositorio profesional. AquÃ­ encontrarÃ¡s mi CurrÃ­culum Vitae actualizado y acceso a mis principales proyectos en anÃ¡lisis de datos, soporte tÃ©cnico y visualizaciÃ³n.
 
-## ????? Perfil Profesional
+## ğŸ‘¨â€ğŸ’» Perfil Profesional
 
-Soy **Analista de Datos** con m¨¢s de 10 a?os de experiencia en log¨ªstica, soporte t¨¦cnico y administraci¨®n operativa. Actualmente me especializo en **Business Intelligence y Data Analytics**, utilizando herramientas como Power BI, Excel avanzado y SQL. Estoy en formaci¨®n continua en **Python para an¨¢lisis de datos**.
+Soy **Analista de Datos** con mÃ¡s de 10 aÃ±os de experiencia en logÃ­stica, soporte tÃ©cnico y administraciÃ³n operativa. Actualmente me especializo en **Business Intelligence y Data Analytics**, utilizando herramientas como Power BI, Excel avanzado y SQL. Estoy en formaciÃ³n continua en **Python para anÃ¡lisis de datos**.
 
-## ?? Habilidades
+## ğŸ§  Habilidades
 
 - Power BI, Excel avanzado, KPIs, SQL
-- Automatizaci¨®n de reportes con Power Automate y Macros
-- Soporte t¨¦cnico N1/N2, GLPI, infraestructura b¨¢sica
-- Comunicaci¨®n efectiva y orientaci¨®n a resultados
+- AutomatizaciÃ³n de reportes con Power Automate y Macros
+- Soporte tÃ©cnico N1/N2, GLPI, infraestructura bÃ¡sica
+- ComunicaciÃ³n efectiva y orientaciÃ³n a resultados
 
-## ?? Ver o Descargar mi CV
+## ğŸ“ Ver o Descargar mi CV
 
-?? [CV_CristianGaeteRojas.pdf](CV_CristianGaeteRojas.pdf)
+ğŸ‘‰ [CV_CristianGaeteRojas.pdf](CV_CristianGaeteRojas.pdf)
 
-## ?? Sitio Web
+## ğŸŒ Sitio Web
 
-?? [https://cgaeter.github.io/cv-cristian-gaete](https://cgaeter.github.io/cv-cristian-gaete)
+ğŸ”— [https://cgaeter.github.io/cv-cristian-gaete](https://cgaeter.github.io/cv-cristian-gaete)
 
-## ?? Proyectos Destacados
+## ğŸ“Š Proyectos Destacados
 
-- [An¨¢lisis de Ventas 2024](https://cgaeter.github.io/Analisis-Ventas-2024/)
-- [Dashboard de An¨¢lisis Operacionales](https://cgaeter.github.io/Dashboard-Analisis-Operacionales/)
+- [AnÃ¡lisis de Ventas 2024](https://cgaeter.github.io/Analisis-Ventas-2024/)
+- [Dashboard de AnÃ¡lisis Operacionales](https://cgaeter.github.io/Dashboard-Analisis-Operacionales/)
 
-## ?? Contacto
+## ğŸ“¬ Contacto
 
-- ?? cristian.gaeter@gmail.com  
-- ?? +56 9 9045 8188  
-- ?? [LinkedIn](https://linkedin.com/in/cgaeter)  
-- ??? [GitHub](https://github.com/cgaeter)
+- ğŸ“§ cristian.gaeter@gmail.com  
+- ğŸ“ +56 9 9045 8188  
+- ğŸ’¼ [LinkedIn](https://linkedin.com/in/cgaeter)  
+- ğŸ–¥ï¸ [GitHub](https://github.com/cgaeter)
