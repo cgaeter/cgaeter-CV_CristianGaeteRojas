@@ -23,6 +23,7 @@ Soy **Analista de Datos** con más de 10 años de experiencia en logística, sop
 
 ## 📊 Proyectos Destacados
 
+- [Análisis_ventas_regionales_ADL](https://cgaeter.github.io/Analisis_ventas_regionales_ADL)
 - [Análisis de Ventas 2024](https://github.com/cgaeter/analisis-ventas-2024)
 - [Dashboard de Análisis Operacionales](https://cgaeter.github.io/Dashboard-Analisis-Operacionales/)
 
