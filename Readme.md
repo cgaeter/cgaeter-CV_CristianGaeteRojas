@@ -15,7 +15,7 @@ Soy **Analista de Control de Gestión Operacional** con experiencia en operacion
 
 ## 📎 Ver o Descargar mi CV
 
-👉 [CV CRISTIAN ESTEBAN GAETE ROJAS.pdf](CV CRISTIAN ESTEBAN GAETE ROJAS.pdf)
+👉 [CV_CRISTIAN_ESTEBAN _GAETE_ROJAS.pdf](CV_CRISTIAN_ESTEBAN _GAETE_ROJAS.pdf)
 
 
 ## 🌐 Sitio Web
@@ -34,6 +34,7 @@ Soy **Analista de Control de Gestión Operacional** con experiencia en operacion
 - 📞 +56 9 9045 8188  
 - 💼 [LinkedIn](https://linkedin.com/in/cgaeter)  
 - 🖥️ [GitHub](https://github.com/cgaeter)
+
 
 
 
