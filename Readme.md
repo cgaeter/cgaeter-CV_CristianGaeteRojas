@@ -4,10 +4,12 @@ Bienvenido a mi repositorio profesional. Aquí encontrarás mi Currículum Vitae
 
 ## 👨‍💻 Perfil Profesional
 
-Soy **Analista de Datos** con más de 10 años de experiencia en logística, soporte técnico y administración operativa. Actualmente me especializo en **Business Intelligence y Data Analytics**, utilizando herramientas como Power BI, Excel avanzado y SQL. Estoy en formación continua en **Python para análisis de datos**.
+Soy ** Analista de Control de Gestión Operacional** con experiencia en operaciones y mejora continua. Construyo **KPIs** y tableros en **Power BI** para controlar la operación y tomar decisiones rápidas. Actualmente me especializo en **Business Intelligence y Data Analytics**.
 
 ## 🧠 Habilidades
 
+- Python para Análisis de Datos (Pandas, Numpy, Matplotlib, Sklearn)
+- SQL para Análsis de Datos (Querys, Sub-Queris, Joins)
 - Power BI, Excel avanzado, KPIs, SQL
 - Automatización de reportes con Power Automate y Macros
 - Soporte técnico N1/N2, GLPI, infraestructura básica
@@ -15,7 +17,7 @@ Soy **Analista de Datos** con más de 10 años de experiencia en logística, sop
 
 ## 📎 Ver o Descargar mi CV
 
-👉 [CV_CristianGaeteRojas.pdf](CV_CristianGaeteRojas.pdf)
+👉 [CV CRISTIAN ESTEBAN GAETE ROJAS.pdf](CV CRISTIAN ESTEBAN GAETE ROJAS.pdf)
 
 ## 🌐 Sitio Web
 
@@ -33,3 +35,4 @@ Soy **Analista de Datos** con más de 10 años de experiencia en logística, sop
 - 📞 +56 9 9045 8188  
 - 💼 [LinkedIn](https://linkedin.com/in/cgaeter)  
 - 🖥️ [GitHub](https://github.com/cgaeter)
+
