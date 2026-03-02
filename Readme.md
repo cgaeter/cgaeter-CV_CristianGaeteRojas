@@ -12,8 +12,6 @@ Soy ** Analista de Control de Gestión Operacional** con experiencia en operacio
 - SQL para Análsis de Datos (Querys, Sub-Queris, Joins)
 - Power BI, Excel avanzado, KPIs, SQL
 - Automatización de reportes con Power Automate y Macros
-- Soporte técnico N1/N2, GLPI, infraestructura básica
-- Comunicación efectiva y orientación a resultados
 
 ## 📎 Ver o Descargar mi CV
 
@@ -35,4 +33,5 @@ Soy ** Analista de Control de Gestión Operacional** con experiencia en operacio
 - 📞 +56 9 9045 8188  
 - 💼 [LinkedIn](https://linkedin.com/in/cgaeter)  
 - 🖥️ [GitHub](https://github.com/cgaeter)
+
 
