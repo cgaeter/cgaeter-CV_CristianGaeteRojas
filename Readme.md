@@ -4,7 +4,7 @@ Bienvenido a mi repositorio profesional. Aquí encontrarás mi Currículum Vitae
 
 ## 👨‍💻 Perfil Profesional
 
-Soy ** Analista de Control de Gestión Operacional** con experiencia en operaciones y mejora continua. Construyo **KPIs** y tableros en **Power BI** para controlar la operación y tomar decisiones rápidas. Actualmente me especializo en **Business Intelligence y Data Analytics**.
+Soy **Analista de Control de Gestión Operacional** con experiencia en operaciones y mejora continua. Construyo **KPIs** y tableros en **Power BI** para controlar la operación y tomar decisiones rápidas. Actualmente me especializo en **Business Intelligence y Data Analytics**.
 
 ## 🧠 Habilidades
 
@@ -17,9 +17,10 @@ Soy ** Analista de Control de Gestión Operacional** con experiencia en operacio
 
 👉 [CV CRISTIAN ESTEBAN GAETE ROJAS.pdf](CV CRISTIAN ESTEBAN GAETE ROJAS.pdf)
 
+
 ## 🌐 Sitio Web
 
-🔗 [https://cgaeter.github.io/CV_CristianGaeteRojas](https://cgaeter.github.io/cgaeter-CV_CristianGaeteRojas)
+🔗 https://github.com/cgaeter/cgaeter-CV_CristianGaeteRojas/blob/main/CV%20CRISTIAN%20ESTEBAN%20GAETE%20ROJAS.pdf
 
 ## 📊 Proyectos Destacados
 
@@ -33,5 +34,6 @@ Soy ** Analista de Control de Gestión Operacional** con experiencia en operacio
 - 📞 +56 9 9045 8188  
 - 💼 [LinkedIn](https://linkedin.com/in/cgaeter)  
 - 🖥️ [GitHub](https://github.com/cgaeter)
+
 
 
