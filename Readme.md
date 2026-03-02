@@ -15,11 +15,11 @@ Soy **Analista de Control de Gestión Operacional** con experiencia en operacion
 
 ## 📎 Ver o Descargar mi CV
 
-👉 [CV_CRISTIAN_ESTEBAN _GAETE_ROJAS.pdf](https://github.com/cgaeter/cgaeter-CV_CristianGaeteRojas/blob/ed9c700db04bca0d27ca85f89b4ebdcc4b52493a/CV_CRISTIAN_ESTEBAN%20_GAETE_ROJAS.pdf))
+👉 [CV_Cristian_Esteban_Gaete_Rojas.pdf](https://github.com/cgaeter/cgaeter-CV_CristianGaeteRojas/blob/0338fd5dcc49760f2de446cf152f036633a7dc75/CV_Cristian_Esteban_Gaete_Rojas.pdf)
 
 ## 🌐 Sitio Web
 
-🔗 [https://github.com/cgaeter/cgaeter-CV_CristianGaeteRojas/blob/ed9c700db04bca0d27ca85f89b4ebdcc4b52493a/CV_CRISTIAN_ESTEBAN%20_GAETE_ROJAS.pdf](https://github.com/cgaeter/cgaeter-CV_CristianGaeteRojas/blob/ed9c700db04bca0d27ca85f89b4ebdcc4b52493a/CV_CRISTIAN_ESTEBAN%20_GAETE_ROJAS.pdf)
+🔗 
 
 ## 📊 Proyectos Destacados
 
@@ -33,6 +33,7 @@ Soy **Analista de Control de Gestión Operacional** con experiencia en operacion
 - 📞 +56 9 9045 8188  
 - 💼 [LinkedIn](https://linkedin.com/in/cgaeter)  
 - 🖥️ [GitHub](https://github.com/cgaeter)
+
 
 
 
